@@ -1,7 +1,7 @@
 # Mr.Kia-Undertale-Fight
 ⭐An Undertale fan game I made to celebrate my friend (Mr. Kia) hitting 7K followers on Twitch!
 
-Mr. Kia is a Persian Twitch streamer that mainly streams Fortnite, and he's also a close friend of mine. I made this Undertale fight to celebrate his channel hitting 6K followers 🎉
+Mr. Kia is a Persian Twitch streamer that mainly streams Fortnite, and he's also a close friend of mine. I made this Undertale fight to celebrate his channel hitting 7K followers 🎉
 
 The attack patterns in this fight are unique to Kia's play style, and should be pretty accurate in terms of what playing against him would be like. This includes frequent scar spams, usage of tactical shotguns, hand cannon spams, and being boxed in with a spike trap! There are also lots of refrences to Kia's signature quotes and interactions with chat 🤩
 
