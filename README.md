@@ -18,6 +18,8 @@ In order to play you need to download and setup "Create Your Frisk", and paste t
 
 🎵The soundtrack I used for the fight: https://www.youtube.com/watch?v=-kQveX3KU8I
 
+Also make sure to check out Mr. Kia's tweet about this game 😂: https://twitter.com/_mr_kia_/status/1597172138611339264?t=n4TaZHynaCbmPG_x82H9Tw&s=19
+
 # License
 
 📃This mod is licensed under the MIT license.
